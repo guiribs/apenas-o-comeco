@@ -1,0 +1,25 @@
+{
+  "name": "apenas-o-comeco",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guiribs/apenas-o-comeco.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guiribs/apenas-o-comeco/issues"
+  },
+  "homepage": "https://github.com/guiribs/apenas-o-comeco#readme",
+  "dependencies": {
+    "next": "^12.0.10",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
